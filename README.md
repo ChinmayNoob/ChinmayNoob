@@ -34,3 +34,8 @@
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaynoob&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true"/>
   </div>
 </div>
+<div align="center">
+<img src="https://visitcount.itsvg.in/api?id=chinmaynoob&label=Profile%20Views&color=3&icon=5&pretty=false" />
+
+  
+</div>
