@@ -7,7 +7,7 @@
 ## Software Engineer
 
 - Based in **Vadodara, India**.
-- Reach out to me [**Email**](mailto:chinmaypvt04@gmail.com).
+- Reach out to me [**chinmay.sawant4804@gmail.com**](mailto:chinmay.sawant4804@gmail.com).
 - Currently Working on [**Tuff**](https://tuff-six.vercel.app/)
 - Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, Motion, Tanstack Query** nowadays!
 - Exploring **Spring Boot,React Native**.
