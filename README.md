@@ -8,18 +8,19 @@
 
 - Based in **Vadodara, India**.
 - Reach out to me [**Email**](mailto:chinmaypvt04@gmail.com).
-- Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, Docker** nowadays!
-- Exploring **Backend Development, Machine Learning**.
-- Everyhting on [**MyCardd**](https://chinmaycard.vercel.app/).
+- Currently Working on [**Tuff**](https://tuff-six.vercel.app/)
+- Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, Motion, Tanstack Query** nowadays!
+- Exploring **Spring Boot,React Native**.
+- [**Portfolio**](https://chinmaynoob-porfolio-v1.vercel.app/).
 
 ## Tools & Technologies
 
 - **Languages**: C, C++, Javascript/TypeScript, GO.
 - **Frameworks/Libraries**: Node.js/Express.js, React.js, Next.js. 
 - **Platforms**: GitHub, Vercel, Supabase.
-- **Databases**: MongoDB, PostgreSQL, MySQL.
-- **ORM**: Prisma, Drizzle, Mongoose.
-- **Misc**: TailwindCSS, Zustand.
+- **Databases**: PostgreSQL, MySQL.
+- **ORM**: Prisma, Drizzle.
+- **Misc**: TailwindCSS, Motion, Tanstack-Query.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-sawant0408/) [![Medium](https://img.shields.io/badge/Discord-12100E?logo=discord&logoColor=white)](http://discordapp.com/users/535038210976514058)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Chinmay0408)
