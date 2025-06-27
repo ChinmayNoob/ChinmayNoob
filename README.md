@@ -10,7 +10,7 @@
 - Reach out to me [**chinmay.sawant4804@gmail.com**](mailto:chinmay.sawant4804@gmail.com).
 - Currently Working on [**Tuff**](https://tuff-six.vercel.app/)
 - Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, Motion, Tanstack Query** nowadays!
-- Exploring **Spring Boot,React Native**.
+- Exploring **Golang,React Native**.
 - [**Portfolio**](https://chinmaynoob-porfolio-v1.vercel.app/).
 
 ## Tools & Technologies
