@@ -29,7 +29,6 @@
 <div>  
   <div align="center">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chinmaynoob&show_icons=true&theme=nightowl&hide_border=true&locale=en"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaynoob&theme=nightowl&hide_border=true"/>
   </div>
     <div align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaynoob&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true"/>
