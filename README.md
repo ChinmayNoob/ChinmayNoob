@@ -5,9 +5,9 @@
 </div>
 
 - 📍 &nbsp; Based in **Vadodara, India**
-- 👨🏻‍💻 &nbsp; Currently Working on [**Ace Trumpets UI**](https://acetrumpets.vercel.app/)
+- 👨🏻‍💻 &nbsp; Currently Working on [**Fern-UI**](https://fern-ui.vercel.app/)
 - 🔧 &nbsp; Working with **Next.js, Typescript, TailwindCSS, Shadcn UI, Motion, Tanstack Query** nowadays!
-- 🌱 &nbsp; I'm learning **Golang, React Native**
+- 🌱 &nbsp; I'm learning **Golang, Distributed Systems,LLD**
 - 🌐 &nbsp; Check out my [**Portfolio**](https://chinmaynoob.vercel.app/)
 - 💻 &nbsp; Most of my projects are available on [**Github**](https://github.com/chinmaynoob)
 - 📫 &nbsp; How to reach me: [**chinmay.sawant4804@gmail.com**](mailto:chinmay.sawant4804@gmail.com)
