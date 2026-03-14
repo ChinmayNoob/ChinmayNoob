@@ -32,11 +32,11 @@
 | **Zoro-Studios** | Landing Page for a Studio having a cool loader component | Next.js, Motion, GSAP | [Live](https://zoro-studios-five.vercel.app/) |
 | **lsm-go** | Implementation of LSM Tree in Go | Golang | [Github](https://github.com/ChinmayNoob/lsm-go) |
 | **usogui** | Modern Next.js Starter Template having Better-Auth, Drizzle, ShadCN | Next.js, Better-Auth, Drizzle, ShadCN | [Live](https://usogui.vercel.app/) |
-| **parser-go**| A lightweight SQL Parser built in Golang | Golang | [Github]((https://github.com/ChinmayNoob/parser-go))|
+| **parser-go**| A lightweight SQL Parser built in Golang | Golang | [Github](https://github.com/ChinmayNoob/parser-go)|
 | **Claude Agent** | A Claude AI Agent built in Golang that can list files, read files, edit code, and answer project-related questions with seamless tool integrations for developer workflows. | Golang | [Github](https://github.com/ChinmayNoob/claude-agent) | 
 | **Lamo** | A Meme Generator App create,edit and share | Next.js, Motion, Typescript | [Live](https://lamo-gold.vercel.app/) |
 | **Urahara's Kitchen** | Dynamic Website Built for a Local Resturant | Next.js, Motion, Typescript | [Live](https://uruharaskitchen.vercel.app/) |
-| **DailyHipHop** | Kanye West Concept Landing Page in a old school british newspaper style | React.js, TailwindCSS, GSAP | [Live](dailyhiphop.vercel.app) |
+| **DailyHipHop** | Kanye West Concept Landing Page in a old school british newspaper style | React.js, TailwindCSS, GSAP | [Live](https://dailyhiphop.vercel.app) |
 | **Wesleys -Theory**| Kendrick Lamar Concept Landing Page | React, Motion, GSAP | [Live](https://wesleys-theory.vercel.app/) |
 | **Image Clipper**| Easily extract specific areas from images using multiple clipping shapes. Upload your image, use various tools to mark the areas you want to clip, preview your selections, and download all clipped sections as separate files. | Next.js, Typescript | [Live](https://im4gec1ipper.vercel.app/) |
 
