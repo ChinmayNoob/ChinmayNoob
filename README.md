@@ -40,7 +40,9 @@
 | **Wesleys -Theory**| Kendrick Lamar Concept Landing Page | React, Motion, GSAP | [Live](https://wesleys-theory.vercel.app/) |
 | **Image Clipper**| Easily extract specific areas from images using multiple clipping shapes. Upload your image, use various tools to mark the areas you want to clip, preview your selections, and download all clipped sections as separate files. | Next.js, Typescript | [Live](https://im4gec1ipper.vercel.app/) |
 
+---
 
+Reach out to me via **chinmaypvt04@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinmay-sawant0408/) [![Medium](https://img.shields.io/badge/Discord-12100E?logo=discord&logoColor=white)](http://discordapp.com/users/535038210976514058) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Chinmay0408)
